@@ -2,7 +2,6 @@ Tugas Akhir dari Course Dicoding
 Belajar Machine Learning untuk Pemula
 Klasifikasi Gambar
 
-# Simbol ceklis untuk dimasukkan ke readme.md di GitHub
 # - [x] Implementasi augmentasi gambar
 # - [x] Menggunakan ImageDataGenerator
 # - [x] Menggunakan model sequential
